@@ -6,3 +6,4 @@ This repository is a collection of JavaScript exercises I've tackled during my j
 
 1. Board game
 2. Data extraction
+3. Counting population
